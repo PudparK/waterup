@@ -1,0 +1,12 @@
+{
+  "name": "WaterUp",
+  "displayName": "WaterUp",
+  "expo": {
+    "name": "WaterUp",
+    "slug": "WaterUp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
